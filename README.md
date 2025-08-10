@@ -19,11 +19,16 @@ Despite the widespread adoption of mobile money in Kenya, the relationship betwe
 ***
 
 ## Research Questions
-* How does the adoption of mobile money correlate with the percentage of the population holding a formal bank account?
-* What are the significant differences in mobile money usage and financial inclusion metrics between urban and rural residential areas in Kenya?
-* Are there specific demographic groups that show a lower rate of mobile money adoption, and how does this affect their financial inclusion?
-* How does the density of M-Pesa agents in a county relate to the level of financial inclusion in that area?
-* What are the trends in mobile money transaction volumes and values over time, and how do they correspond to changes in traditional financial services?
+1. How has the adoption of M-Pesa influenced bank account ownership rates across urban and rural Kenyan counties?
+2. What are the disparities in M-Pesa transaction volumes between different regions and demographics in Kenya?
+3. How do average transaction volumes vary by county, and what factors contribute to these variations?
+4. What is the correlation between M-Pesa transaction frequency and key financial inclusion metrics, such as account ownership?
+5. How have yearly transaction values for peer-to-peer (P2P) transfers evolved over time in Kenya?
+6. What is the distribution of M-Pesa agents across Kenyan counties, and how does it relate to adoption rates?
+7. How do M-Pesa adoption rates and financial inclusion metrics differ by demographic groups, such as rural women?
+8. What trends are observed in monthly M-Pesa transaction volumes over time, and how do they impact financial inclusion?
+9. Which Kenyan counties exhibit high M-Pesa usage but low overall financial inclusion, and why?
+10. What is the spatial distribution of financial inclusion metrics, like percentage of population with mobile money accounts, across Kenyan counties?
 
 ***
 
