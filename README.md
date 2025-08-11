@@ -19,16 +19,15 @@ Despite the widespread adoption of mobile money in Kenya, the relationship betwe
 ***
 
 ## Research Questions
-1. How has the adoption of M-Pesa influenced bank account ownership rates across urban and rural Kenyan counties?
-2. What are the disparities in M-Pesa transaction volumes between different regions and demographics in Kenya?
-3. How do average transaction volumes vary by county, and what factors contribute to these variations?
-4. What is the correlation between M-Pesa transaction frequency and key financial inclusion metrics, such as account ownership?
-5. How have yearly transaction values for peer-to-peer (P2P) transfers evolved over time in Kenya?
-6. What is the distribution of M-Pesa agents across Kenyan counties, and how does it relate to adoption rates?
-7. How do M-Pesa adoption rates and financial inclusion metrics differ by demographic groups, such as rural women?
-8. What trends are observed in monthly M-Pesa transaction volumes over time, and how do they impact financial inclusion?
-9. Which Kenyan counties exhibit high M-Pesa usage but low overall financial inclusion, and why?
-10. What is the spatial distribution of financial inclusion metrics, like percentage of population with mobile money accounts, across Kenyan counties?
+1. Trend of formal financial inclusion over the years?
+2. Comparison of population using banks and mobile money?
+3. Financial inclusion by demographics?
+4. Impact of hustler fund on financial inclusion?
+5. Correlation between mobile money usage and formal financial inclusion?
+6. Comparison of financial inclusion metrics across counties?
+7. Usage of Financial Services and Products by Providers?
+8. Traditional SACCO vs Mobile SACCO usage?
+
 
 ***
 
@@ -55,7 +54,6 @@ Tools and techniques used for data analysis, querying, and visualization:
 * **Python:** The primary tool for data scraping, wrangling , and visualization.
 * **SQL (MySQL):** For database management, data storage, and efficient querying of large datasets.
 * **Tableau:** To create interactive dashboards and key performance indicator (KPI) visualizations.
-* **Geopandas:** For geospatial analysis and creating choropleth maps of Kenya.
 
 ***
 
