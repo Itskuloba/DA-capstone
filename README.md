@@ -9,12 +9,12 @@ PesaPathways
 ***
 
 ## Project Description
-Despite Kenya's remarkable progress in financial inclusion, with formal inclusion reaching 85% in 2024 and mobile money penetration at over 83% driven by platforms like M-Pesa, significant gaps persist in underserved regions and demographic groups, limiting access to formal credit and banking services. This project addresses these disparities by examining how M-Pesa's adoption—evidenced by 28.33 billion transactions valued at KShs 40.24 trillion in FY2024 impacts financial inclusion metrics across counties and demographics, identifying barriers such as rural-urban divides and socioeconomic inequalities to inform targeted policies that promote equitable economic growth and bridge the remaining financial access gap for marginalized populations.
+PesaPathways examines the transformative role of mobile money platforms in advancing financial inclusion in Kenya. Drawing on data from Safaricom, the Kenya National Bureau of Statistics (KNBS), and the Central Bank of Kenya (CBK), the analysis quantifies how mobile money adoption influences key indicators such as bank account ownership, transaction volumes, and access to formal financial services. Through data scraping, exploratory analysis, and interactive visualizations, the project highlights trends, correlations, and disparities, providing insights into how digital finance drives economic empowerment and reduces barriers for underserved populations.
 
 ***
 
 ## Problem Statement
-Despite the widespread adoption of mobile money in Kenya, the relationship between its use and traditional financial inclusion metrics, such as bank account ownership and formal credit access, remains poorly understood. This project addresses the gap by examining how the adoption of M-Pesa impacts financial inclusion across different counties and demographic groups. It will identify specific regional and demographic disparities to inform targeted interventions that can help bridge the financial divide and promote equitable economic growth.
+Kenya has achieved remarkable progress in mobile money adoption, with platforms like M-Pesa serving over 32 million users and facilitating 28.33 billion transactions annually. However, the extent to which this digital revolution translates into broader financial inclusion—such as increased bank account ownership, access to credit, and utilization of formal financial services—remains underexplored, particularly across demographic groups and regions. This gap hinders effective policymaking and leaves vulnerabilities in rural and low-income communities unaddressed. The project tackles this challenge by leveraging data-driven analysis to uncover correlations, identify regional disparities, and recommend strategies that leverage mobile money to foster more inclusive financial systems and sustainable economic development.
 
 ***
 
