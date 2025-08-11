@@ -1,15 +1,15 @@
-# DA-capstone
-Impact of Mobile Money on Financial Inclusion in Kenya: Data Analytics Capstone Project Proposal
+# PesaPathways
+Impact of Mobile Money on Financial Inclusion in Kenya
 
 ***
 
 ## Project Title
-Analyzing the Role of Mobile Money in Enhancing Financial Inclusion in Kenya
+PesaPathways
 
 ***
 
 ## Project Description
-This capstone project investigates the impact of mobile money platforms, primarily M-Pesa, on financial inclusion in Kenya. By analyzing data from various sources, including Safaricom, the Kenya National Bureau of Statistics and the Central Bank of Kenya, the project aims to quantify the relationship between mobile money adoption and key financial inclusion metrics like bank account ownership and transaction frequency. 
+Despite Kenya's remarkable progress in financial inclusion, with formal inclusion reaching 85% in 2024 and mobile money penetration at over 83% driven by platforms like M-Pesa, significant gaps persist in underserved regions and demographic groups, limiting access to formal credit and banking services. This project addresses these disparities by examining how M-Pesa's adoption—evidenced by 28.33 billion transactions valued at KShs 40.24 trillion in FY2024 impacts financial inclusion metrics across counties and demographics, identifying barriers such as rural-urban divides and socioeconomic inequalities to inform targeted policies that promote equitable economic growth and bridge the remaining financial access gap for marginalized populations.
 
 ***
 
