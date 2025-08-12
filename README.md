@@ -3,10 +3,6 @@ Impact of Mobile Money on Financial Inclusion in Kenya
 
 ***
 
-## Project Title
-PesaPathways
-
-***
 
 ## Project Description
 PesaPathways examines the transformative role of mobile money platforms in advancing financial inclusion in Kenya. Drawing on data from Safaricom, the Kenya National Bureau of Statistics (KNBS), and the Central Bank of Kenya (CBK), the analysis quantifies how mobile money adoption influences key indicators such as bank account ownership, transaction volumes, and access to formal financial services. Through data scraping, exploratory analysis, and interactive visualizations, the project highlights trends, correlations, and disparities, providing insights into how digital finance drives economic empowerment and reduces barriers for underserved populations.
@@ -53,7 +49,7 @@ Kenya has achieved remarkable progress in mobile money adoption, with platforms 
 Tools and techniques used for data analysis, querying, and visualization:
 * **Python:** The primary tool for data scraping, wrangling , and visualization.
 * **SQL (MySQL):** For database management, data storage, and efficient querying of large datasets.
-* **Tableau:** To create interactive dashboards and key performance indicator (KPI) visualizations.
+* **PowerBI:** To create interactive dashboards and key performance indicator (KPI) visualizations.
 
 ***
 
